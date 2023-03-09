@@ -6,13 +6,10 @@
     z-index: 1; /* Stay on top */
     top: 130px;
     right: 0;
-    border: 1px solid ;
     background-color: white; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
-    padding: 10px ;
-
   }
   
   /* The sidepanel links */
